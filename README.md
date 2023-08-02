@@ -54,7 +54,7 @@ O repositório está organizado da seguinte maneira:
 |-- src
 |   |-- Game.java
 |-- README.md
-|-- |-- README.md
+|-- pedraPapelTesoura.iml
 ```
 
 - O código-fonte do jogo está localizado no arquivo `JogoPedraPapelTesoura.java`.
