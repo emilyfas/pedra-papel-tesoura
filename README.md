@@ -73,4 +73,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Agradecemos por visitar este repositório! Divirta-se jogando o jogo de Pedra, Papel e Tesoura em Java! Em caso de dúvidas, sinta-se à vontade para entrar em contato.
 
-**Desenvolvido por [Emilly Fernandes](https://github.com/emilyfas).
+Desenvolvido por [Emilly Fernandes](https://github.com/emilyfas). <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
