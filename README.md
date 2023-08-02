@@ -28,12 +28,12 @@ Certifique-se de que você tenha o ambiente Java configurado em sua máquina. Em
 
 3. Compile o código-fonte.
    ```
-   javac ´pedraPapelTesoura.java
+   javac Game.java
    ```
 
 4. Execute o jogo.
    ```
-   java pedraPapelTesoura
+   java Game
    ```
 
 ## Modos de jogo
@@ -52,8 +52,9 @@ O repositório está organizado da seguinte maneira:
 
 ```
 |-- src
-|   |-- JogoPedraPapelTesoura.java
+|   |-- Game.java
 |-- README.md
+|-- |-- README.md
 ```
 
 - O código-fonte do jogo está localizado no arquivo `JogoPedraPapelTesoura.java`.
