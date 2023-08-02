@@ -1,5 +1,8 @@
 # Jogo de Pedra, Papel e Tesoura em Java
 
+![pedra-papel-tesoura-removebg-preview](https://github.com/emilyfas/pedra-papel-tesoura/assets/115494759/0d042df9-ae08-48c5-a670-14a207281ecb)
+
+
 Bem-vindo ao repositório do jogo de Pedra, Papel e Tesoura em Java! Este é um mini projeto desenvolvido com o propósito de treinar e colocar em prática conhecimentos básicos da linguagem Java, como variáveis, tipos de dados, estruturas condicionais, loops e métodos. O jogo possui dois modos: modo multiplayer e modo "contra a máquina".
 
 ## Como jogar
